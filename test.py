@@ -1,6 +1,6 @@
 import unittest
 import inspect
-from rohit import evaluate_string
+from ideal import evaluate_string
 #evaluate_string = evaluate_strings
 
 class MyTestCase(unittest.TestCase):
